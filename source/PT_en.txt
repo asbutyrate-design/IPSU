@@ -1,3 +1,4 @@
+@@PROJECT@@
 Name of the scientific project: "Pharmaceutical development of stimulus-sensitive in situ delivery systems: composition, technology, standardisation and biopharmaceutical evaluation"
 
 Project team: PhD (Doctor of Pharmaceutical Sciences), Professor E.O. Bakhrushina; Senior Lecturer I.B. Mikhel; Assistant V.S. Pyzhov; Assistant M.V. Pomytkina; postgraduate students: N.O. Belyavsky, P.S. Sakharova, A.K. Kartashova; residents: E.V. Kashevarova; students: Ya.A. Avdonina, G.A. Gribanov, K.S. Leonova, E.S. Panova, A.A. Kasatikova, S.B. Konon, A.N. Golub.
@@ -48,7 +49,7 @@ Main scientific publications on the project:
 12. Bakhrushina E.O., Leonova K.S., Belyavsky N.O., Gegechkori V.I., Belyaev V.V., Syusev B.B., Salakhetdinov D.K., Krasnyuk I.I., Atkova E.L., Yartsev V.D. Punctal and intracanalicular drug delivery systems for ophthalmic use: a narrative review of technologies, clinical outcomes, and critical quality attributes // Pharmaceutics. – 2026. – Vol. 18. – P. 830. DOI: 10.3390/pharmaceutics18070830 [Scopus, Q1]
 13. Sologova S.S., Sologova D.S., Shumkina A.A., Brazhnikova V.V., Morozova V.V., Sologov S.S., Rusanov S.S., Anikin G.G., Chilova R.A., Smolyarchuk E.A., Bakhrushina E.O. Modern drug delivery platforms based on photocrosslinkable hydrogels (PCHs) in dentistry: from material characteristics to clinical applications—a review // Pharmaceuticals. – 2026. – Vol. 19. – № 6. – P. 837. DOI: 10.3390/ph19060837 [Scopus, Q1]
 14. Bakhrushina E.O., Gribanov G.A., Sologova S.S., Darawsheh H., Osmanov E.G., Smolyarchuk E.A., Vasil'ev Yu.L., Krasnyuk I.I. Photo-responsive in situ forming hydrogels for drug delivery: a critical review of polymer matrices, photoinitiators, and the gap towards clinical translation // Polymers. – 2026. – Vol. 18. – № 16. – P. 1951. DOI: 10.3390/polym18161951 [Scopus, Q1]
-
+@@PROJECT@@
 Name of the scientific project: "Development, standardisation and scaling of the manufacturing technology of medicinal products in the form of chewing gum with local or systemic action"
 
 Project team: PhD (Doctor of Pharmaceutical Sciences), Professor E.O. Bakhrushina; PhD (Candidate of Pharmaceutical Sciences), Associate Professor S.I. Kosenkova; student: Yu.A. Saksonova.
@@ -88,7 +89,7 @@ Development and evaluation of a chewing gum containing antimicrobial peptide GH1
 Scientific project: "New generation transmucosal delivery: creation of applicative mucoadhesive systems"
 Project team: PhD, Professor Anurova M.N., PhD, Associate Professor Korol V.A., PhD student Petrulenko K.E, graduate student Kulmin A.R., resident Ivanova A.N.
 
-
+@@PROJECT@@
 Project description: The aim of the project is to develop an innovative platform of applicative mucoadhesive dosage forms for effective local and systemic drug delivery, providing increased bioavailability, prolonged release, and protection of unstable drugs.
 Key tasks:
 - to develop scientific approaches to the design of applicative dosage forms with specified mucoadhesive and kinetic characteristics; 
@@ -102,7 +103,7 @@ To study the therapeutic and biopharmaceutical properties of biadhesive dental p
 Modern aspects of the development of bioadhesive dosage forms for the oral cavity. Pharmacy. 2025. Vol. 74. No. 5. P. 38-46. https://doi.org/10.29296/25419218-2025-05-05 (In Russ.).)
 Anurova M.N., Dorokhina Ya.A., Gulenkov A.S., Demina N.B., Korol L.A., Mizina P.G. Pharmaceutical development of sangviritrin spray for the treatment of inflammatory diseases of the oral cavity. Drug development & registration. 2025;14(1):160-170. https://doi.org/10.33380/2305-2066-2025-14-1-1851
 Anurova M.N., Bakhrushina E.O., Lapik I.V., Turaeva A.R., Demina N.B., Sysuev B.B., Krasnyuk I.I. Biopharmaceutical Properties of New Mucoadhesive Dosage Form for Eye Degenerative Diseases Treatment. Drug development & registration. 2023;12(3):41-48. https://doi.org/10.33380/2305-2066-2023-12-3-41-48
-
+@@PROJECT@@
 Development of Injectable Dosage Forms of Antitumour Drugs Taking into Account Modern Methods of Active Substance Delivery
 
 Project team: PhD, Professor I. I. Krasnyuk; PhD, Associate Professor Zh. M. Kozlova; postgraduate student S. D. Shcheglov; student R. A. Bandin.
