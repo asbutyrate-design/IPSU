@@ -1,5 +1,5 @@
-The name of the scientific project: 
-"Taxonomy and resources of plants promising for use in medicine"
+@@PROJECT@@
+The name of the scientific project: "Taxonomy and resources of plants promising for use in medicine"
  
 Project team: Head of the Department of Pharmaceutical Natural Sciences, Dr. Pharm. Sci. Luferov A.N., postgraduate student Melnik A.A., student Tinkt A.V. 
 Project description: 
@@ -18,7 +18,7 @@ The main scientific publications on the project:
 Botanica Pacifica: a Journal of Plant Science and Conservation. 2022. Т. 11. № 1. P. 129-157.
 https://doi.org/10.17581/bp.2022.11116 
 
-
+@@PROJECT@@
 NAME OF THE SCIENTIFIC PROJECT: “New types of medicinal plant raw materials: from handling to regulatory documentation”
 Project leader: Doctor of Pharmaceutical Sciences, Professor Sergunova E.V.
 Project team: Ph.D. Associate Professor Kovaleva T.Yu., Ph.D. senior teacher Dorovskikh E.A., graduate student Pavlenko A.A., graduate student Tarasova A.V., graduate student Melnik A.A.
@@ -49,7 +49,7 @@ Main scientific publications:
 •	Kovaleva T. Yu., Trashchenkova D.A., Samylina I.A., Shilova I.V., Dorovskikh E.A., Pavlenko A.A., Rendyuk T.D., Strelyaeva A.V., Konovalchik D.A., Bokov D.O.. Biologically active substances in blueberry shoots (Vaccinium myrtillus L.) of Russian origin. Research Journal of Pharmacy and Technology. 2023; 16(11):5426-1. doi: 10.52711/0974-360X.2023.00879
 
  
-
+@@PROJECT@@
 Research Project Title: “Creation of a Database of Ionomic Profiles of Medicinal Plant Raw Materials and Preparations Based on Them”
 
 Project Team: Dr. of Pharmaceutical Sciences, Professor I.V. Gravel; postgraduate students: D.V. Levushkin, V.N. Shestopalova, O.S. Lavrova.
@@ -72,7 +72,7 @@ Main Scientific Publications on the Project:
 7)	I.V. Gravel, D.V. Levushkin, Yu.E. Generalova, V.V. Kosenko, I.I. Terninko. Microelement profiles of pectoral species. Regulatory Research and Medicine Evaluation. 2026;15(2);36-45.
 8)	A.A. Pavlenko, D.V. Levushkin, A.V. Shkarbun, T.Yu. Kovaleva, I.V. Gravel. Content of cadmium, lead, and copper in fruits and herb of coriander (Coriandrum sativum L.). Bulletin of the Perm State Pharmaceutical Academy. Collection of Materials “Kromer Readings”. 2026;157-158.
 9)	I.V. Gravel, D.V. Levushkin. Ultramicroelements in Pectoral Species No. 4 and its Dosage Form. In FESTEM 2025 International Symposium on Trace Elements and Minerals: Program & Book of Abstracts. Timisoara, Romania, April 21–25. 2025;78-79.
-
+@@PROJECT@@
 Scientific Project Title: "Glycans of Medicinal Plant Raw Materials"
 Ph.D. in Pharmaceutical Sciences, Associate Professor D.O. Bokov
 The project is carried out at the Department of Pharmaceutical Natural Sciences, Institute of Pharmacy named after A.P. Nelyubin, Sechenov University.
@@ -88,7 +88,7 @@ Bokov D.O., Rodin M.N., Samylina I.A. Development and validation of a spectropho
 Bokov D.O. Instrumental methods for the determination of polysaccharides in medicinal plant raw materials: a modern view. In the collection: Perspectives for the implementation of innovative technologies in medicine and pharmacy. Collection of materials of the XII All-Russian scientific and practical conference with international participation. Orekhovo-Zuyevo - Elektrogorsk - Moscow. 2025. С. 44-46.
 Chevidaev V.V., Bokov D.O., Samylina I.A. The use of the anthrone method in the quantitative determination of carbohydrates in medicinal plant raw materials and herbal medicinal products. In the collection: Innovative medicines: from molecule to patient. Collection of materials of the First conference. Moscow. 2025. С. 179-181.
 Rodin M.N., Bokov D.O., Kakhramanova S.D., Samylina I.A. Development and validation of a procedure for the quantitative determination of polysaccharides in linden flowers. Pharmacy. 2024. Т. 73. № 7. С. 5-13. https://doi.org/10.29296/25419218-2024-07-01
-
+@@PROJECT@@
 Scientific Project Title: "Use of light microscopy in the quality control of medicinal plant raw materials and medicinal plant preparations"  
 Project team: Dr. Pharm. Sci., Associate Professor Bobkova N.V., postgraduate student: Pham Phuong Nam, students: Diana Bayramkulova, Darya Gadetskaya.
 Project description: 
