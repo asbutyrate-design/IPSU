@@ -1,3 +1,4 @@
+@@PROJECT@@
 Название научного проекта: «Development of digital platforms for drug research and development»
 Project team: к.х.н. Апполонова С.А., аспиранты Резванов П.А., Болдин А.А.
 Project description:
@@ -17,7 +18,7 @@ Key publications on the project:
 2. Rezvanov P.M., Moskaleva N.E., Shestakova K.M., Tarasov V.V., Smolyarchuk E.A., Kudlay D.A., Apollonova S.A. PreKinetix: web application for pharmacokinetic analysis in preclinical drug research. Pharmacy & Pharmacology. 2025;13(4):246-259. https://doi.org/10.19163/2307-9266-2025-13-4-246-259
 3. Moskaleva NE, Rezvanov PM, Samoilov VM, Varzieva VG, Baskhanova SN, Appolonova SA. Study of metabolomic markers of β-blocker neurotoxicity using zebrafish as a model organism. Bulletin of Experimental Biology and Medicine. 2025;180(9):308–311. doi:10.47056/0365-9615-2025-180-9-308-311.
 4. Varzieva VG, Boldin AA, Shestakova KM, Baskhanova SN, Samoylov VM, Ilgisonis IS, Kirichenko YY, Karimov RR, Smolyarchuk EA, Kudlay DA, Tarasov VV, Belenkov YN, Appolonova SA. Changes in the metabolomic profile of blood plasma in patients with lymphoma during polychemotherapy. Terapevticheskii Arkhiv. 2025;97(11):908–919. doi:10.26442/00403660.2025.11.203491.
-
+@@PROJECT@@
 The name of the project: «Digital Prescribing»
 
 Project team: Head of the Department of Pharmacology, Candidate of Medical Sciences, Associate Professor E.A. Smolyarchuk; Professor, Doctor of Medical Sciences A.V. Samorodov; Associate Professor, Candidate of Biological Sciences S.S. Sologova; Associate Professor, Candidate of Medical Sciences E.A. Zavadich; Assistant D.A. Trashchenkova; Assistant E.V. Polikarpov
@@ -36,7 +37,7 @@ Key research publications on the project:
 1. Tatzhikova, K. A., Poddubnaya, K. M., Vishnyakova, E. V., et al. Students’ Assessment of the Possibility of Implementing Innovative Teaching Methods Using Information and Communication Technologies at the Department of Pharmacology of Sechenov University. Pedagogical Informatics. 2023;4:440–458. ISSN 2070-9013.
 
 2. Smolyarchuk EA, Sologova SS, Trashchenkova DA, et al. Automated educational platform “Digital Prescription Writing”, version 1.0 [computer program]. Moscow: I.M. Sechenov First Moscow State Medical University of the Ministry of Health of the Russian Federation (Sechenov University); 2025. Certificate of State Registration of a Computer Program No. RU 2025610006; application No. 2024688797. Registered 2024 Nov 27; published 2025 Jan 9.
-
+@@PROJECT@@
 The name of the research project: «Conducting preclinical and clinical studies of an innovative composition/product based on plant-derived raw materials»
 
 Project team: Associate professor, PhD Zavadich K.A., PhD student Kornopoltseva L.V.
@@ -54,7 +55,7 @@ Key points:
 
 Key research publications on the project:
 1. Zavadich K. A., Smolyarchuk E. A., Kudashkina N. V., Sologova S. S., Sysuev B. B., Stepanova O. I., Averyanov  S. V., Kornopoltseva L. V., Shchekin V. S., Samorodov A. V., Yusupova A. A., Shubina A. I. Medicinal herbal mixture for the treatment of oral diseases. Drug development & registration. 2025;14(2):37–44. (In Russ.) https://doi.org/10.33380/2305-2066-2025-14-2-1861
-
+@@PROJECT@@
 The name of the research project: «Development of protective strategies for drug-induced hearing loss»
 Project team: Associate Professor, Ph.D Bakaeva Z.V., Assistant professor Polikarpov E.V., student Orlov A.S.
 Project description: 
@@ -73,7 +74,7 @@ Key research publications on the project:
 1.	Polikarpov, E. V., Kozin, S. V., Smolyarchuk, E., Savostyanov, K., Mirontsev, A. V., Sologova, S., Chasovnikova, V. V., Eremeeva, K. V., Fisenko, A., Kudlay, D., & Bakaeva, Z. (2026). Cochlear isolation in neonatal mice for in vitro and ex vivo models: an anatomical landmark-based protocol. Frontiers in pharmacology, 17, 1727526. https://doi.org/10.3389/fphar.2026.1727526
 2.	Polikarpov, E. V., Smolyarchuk, E. A., Fisenko, A. P., & Bakaeva, Z. V. (2026). The Use of Primary Spiral Ganglion Cells in Studying Glutamate Receptor Function and Excitotoxicity in the Cochlea. Cells, 15(9), 777. https://doi.org/10.3390/cells15090777
 3.	Polikarpov E.V., Smolyarchuk E.A., Grigorevskikh E.M., Yaroshenko E.Yu., Pavlova S.I., Kudlay D.A., Savostyanov K.V., Bakaeva Z.V. Development of a method for in vitro cultivation of Corti's organ explants using polyethyleneimine. Pharmacy & Pharmacology. 2026;14(4):326-337. (In Russ.) https://doi.org/10.19163/2307-9266-2026-14-4-326-337
-
+@@PROJECT@@
 The name of the research project: “Study of the mechanisms of neuroprotection and neuroregeneration”
 Project team: Associate Professor, Ph.D. Bakaeva Z.V., PhD students Zgodova A.E., Chernova S.S., students Lizunova N.V., Kislukhina E.N., Boyarkin D.P., Alekseev V.I.
 Project description: 
