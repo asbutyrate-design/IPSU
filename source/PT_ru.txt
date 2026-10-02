@@ -1,3 +1,4 @@
+@@PROJECT@@
 Название научного проекта: «Фармацевтическая разработка стимулочувствительных in situ систем доставки: состав, технология, стандартизация и биофармацевтическая оценка»
 
 Команда проекта: д.ф.н., профессор Бахрушина Е.О., ст. преподаватель Михел И.Б., ассистент Пыжов В.С., ассистент Помыткина М.В. аспиранты: Белявский Н.О., Сахарова П.С., Карташова А.К. ординаторы: Кашеварова Е.В. студенты: Авдонина Я.А., Грибанов Г.А., Леонова К.С., Панова Е.С., Касатикова А.А., Конон С.Б., Голубь А.Н.
@@ -46,7 +47,7 @@
 12.	Bakhrushina E.O., Leonova K.S., Belyavsky N.O., Gegechkori V.I., Belyaev V.V., Syusev B.B., Salakhetdinov D.K., Krasnyuk I.I., Atkova E.L., Yartsev V.D. Punctal and intracanalicular drug delivery systems for ophthalmic use: a narrative review of technologies, clinical outcomes, and critical quality attributes // Pharmaceutics. – 2026. – Vol. 18. – P. 830. DOI: 10.3390/pharmaceutics18070830 [Scopus, Q1]
 13.	Sologova S.S., Sologova D.S., Shumkina A.A., Brazhnikova V.V., Morozova V.V., Sologov S.S., Rusanov S.S., Anikin G.G., Chilova R.A., Smolyarchuk E.A., Bakhrushina E.O. Modern drug delivery platforms based on photocrosslinkable hydrogels (PCHs) in dentistry: from material characteristics to clinical applications—a review // Pharmaceuticals. – 2026. – Vol. 19. – № 6. – P. 837. DOI: 10.3390/ph19060837 [Scopus, Q1]
 14.	Bakhrushina E.O., Gribanov G.A., Sologova S.S., Darawsheh H., Osmanov E.G., Smolyarchuk E.A., Vasil'ev Yu.L., Krasnyuk I.I. Photo-responsive in situ forming hydrogels for drug delivery: a critical review of polymer matrices, photoinitiators, and the gap towards clinical translation // Polymers. – 2026. – Vol. 18. – № 16. – P. 1951. DOI: 10.3390/polym18161951 [Scopus, Q1]
-
+@@PROJECT@@
 Название научного проекта: «Разработка, стандартизация и масштабирование технологии производства лекарственных препаратов в форме жевательной резинки с местным или системным действием»
 Команда проекта: д.ф.н., профессор Бахрушина Е.О., к.ф.н., доцент Косенкова С.И. студенты: Саксонова Ю.А.
 Проект выполняется совместно с Российским химико-технологическим университетом имени Д. И. Менделеева и с Федеральным исследовательским центром оригинальных и перспективных биомедицинских и фармацевтических технологий. 
@@ -69,7 +70,7 @@ Formulation development and evaluation of metformin chewing gum with bitter tast
 Depression patient-friendly formulation containing escitalopram and ascorbic acid: design, optimization, characterization, and in vivo taste assessment. Naunyn-Schmiedeberg's archives of pharmacology. 2026. T. 399. № 9. C. 13807-13829. https://doi.org/10.1007/s00210-026-05190-3 
 Formulation development, optimization, and evaluation of taste-masked medicated chewing gum of sertraline. Therapeutic delivery. 2025. T. 16. № 7. C. 621-636.  https://doi.org/10.1080/20415990.2025.2508685 
 Development and evaluation of a chewing gum containing antimicrobial peptide GH12 for caries prevention. European journal of oral sciences. 2022. T. 130. № 5. C. 12887. https://doi.org/10.1111/eos.12887 
-
+@@PROJECT@@
 Научный проект: «Трансмукозальная доставка нового поколения: создание аппликационных мукоадгезивных систем»
 Команда проекта: PhD, профессор Анурова М.Н., PhD, доцент Король В.А., PhD-студент Петруленко К.Е., аспирант Кульмин А.Р., ординатор Иванова А.Н.
 Описание проекта: Цель проекта — разработать инновационную платформу аппликационных мукоадгезивных лекарственных форм для эффективной местной и системной доставки лекарственных средств, обеспечивающую повышенную биодоступность, пролонгированное высвобождение и защиту нестабильных препаратов.
@@ -85,7 +86,7 @@ To study the therapeutic and biopharmaceutical properties of biadhesive dental p
 Modern aspects of the development of bioadhesive dosage forms for the oral cavity. Pharmacy. 2025. Vol. 74. No. 5. P. 38-46. https://doi.org/10.29296/25419218-2025-05-05 (In Russ.).)
 Anurova M.N., Dorokhina Ya.A., Gulenkov A.S., Demina N.B., Korol L.A., Mizina P.G. Pharmaceutical development of sangviritrin spray for the treatment of inflammatory diseases of the oral cavity. Drug development & registration. 2025;14(1):160-170. https://doi.org/10.33380/2305-2066-2025-14-1-1851
 Anurova M.N., Bakhrushina E.O., Lapik I.V., Turaeva A.R., Demina N.B., Sysuev B.B., Krasnyuk I.I. Biopharmaceutical Properties of New Mucoadhesive Dosage Form for Eye Degenerative Diseases Treatment. Drug development & registration. 2023;12(3):41-48. https://doi.org/10.33380/2305-2066-2023-12-3-41-48
-
+@@PROJECT@@
 Разработка инъекционных лекарственных форм противоопухолевых препаратов с учётом современных методов доставки действующего вещества
 
 Команда проекта: PhD, профессор Краснюк И.И.; PhD, доцент Козлова Ж.М.; аспирант Щеглов С.Д.; студент Бандин Р.А.
