@@ -1,3 +1,4 @@
+@@PROJECT@@
 Название комплексного научного направления: «Научно-методические основы гигиенического и экологического мониторинга активных фармацевтических субстанций и безопасного обращения с непригодными лекарственными препаратами»
 Раменская Г.В., Горпинченко Н.В., Родионова Г.М.
 Описание научного направления
@@ -26,7 +27,7 @@
 2. Пожарнов И.А., Симаков А.С., Шульга Н.А. [и др.] Гигиенический мониторинг загрязнённости воздуха рабочей зоны твёрдыми частицами тикагрелора на фармацевтическом предприятии // Разработка и регистрация лекарственных средств. – 2022. – Т. 11, № 2. – С. 153–158.
 3. Пожарнов И.А., Чугаев Д.В., Шульга Н.А. [и др.] Количественное определение осимертиниба в воздухе рабочей зоны фармацевтического предприятия // Естественные и технические науки. – 2022. – № 8 (171). – С. 73–85.
 4. Pozharnov I.A., Ramenskaya G.V., Epshtein N.B. Industrial hygiene monitoring of the drug ticagrelor at a pharmaceutical factory // Техногенные системы и экологический риск: тезисы докладов III Международной (XVI Региональной) научной конференции. – 2020. – С. 223–224.
-
+@@PROJECT@@
 Название научного проекта: «Разработка и валидация методов химико-токсикологического и судебно-химического анализа наркотических, психотропных и других токсикологически значимых веществ»
 Подразделение: кафедра фармацевтической и токсикологической химии им. А.П. Арзамасцева Института фармации им. А.П. Нелюбина Сеченовского Университета.
 Команда проекта (по авторам опубликованных работ): д.фарм.н., профессор Раменская Г.В.; д.б.н., профессор Белова М.В.; к.фарм.н., доцент Петухов А.Е.
@@ -57,7 +58,7 @@ DOI: 10.1093/jat/bkab019.
 DOI: 10.3390/toxins14070490.
 8. Зеленщикова В.А., Белова М.В., Мельник Е.В. Токсикологически значимые свойства мухоморов и химико-токсикологический анализ при отравлениях: научный обзор // Судебная медицина. — 2025. — Т. 11, № 1. — С. 63–75.
 DOI: 10.17816/fm16219.
-
+@@PROJECT@@
 Название научного проекта: «Метаболизм и фармакокинетика лекарственных средств как научная основа персонализированной медицины и персонализированной фармации»
 Команда проекта (по авторам опубликованных работ): Раменская Г.В.; Смирнов В.В.;; Мельников Е.С.; 
 Описание проекта:
@@ -83,7 +84,7 @@ DOI: 10.1007/s11094-023-02843-y.
 DOI: 10.30906/0023-1134-2015-49-3-3-6.
 7. Turenko V.N., Ramenskaya G.V., Karimova Z.K. et al. Development of Approaches for Evaluating the Pharmacokinetics of Meropenem during Endolymphatic Antibiotic Treatment in Critically Ill Patients // The BRICS Health Journal. — 2025. — Vol. 2, No. 2. — P. 24–35.
 DOI: 10.47093/3034-4700.2025.2.2.24-35.
-
+@@PROJECT@@
 Название научного проекта: «Контроль качества лекарственных средств»
 Команда проекта: Коллектив кафедры фармацевтической и токсикологической химии им. А.П. Арзамасцева Института фармации им. А.П. Нелюбина Сеченовского Университета
 Описание проекта:
@@ -103,7 +104,7 @@ DOI: 10.47093/3034-4700.2025.2.2.24-35.
 •	Gegechkori V.I., Shatilina A.A., Shchepochkina O.Yu., Ramenskaya G.V. Proposal of the method for quantitative determination of proteolytic activity of a pancreatin reference standard // Вопросы биологической, медицинской и фармацевтической химии. — 2023. — № 12. https://doi.org/10.29296/25877313-2023-12-03 
 •	Gegechkori V.I., Sukhanova A.M., Belyavsky N.O., Ramenskaya G.V. Implementation of modern quality management system requirements in the production management of reference standards for pharmaceuticals and medicine // Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология. — 2025. — Т. 18, № 3. — С. 330–339. https://doi.org/10.17749/2070-4909/farmakoekonomika.2025.311 
 •	Shulga N.A., Merkushova A.G., Gegechkori V.I., Chugaev D.V., Ramenskaya G.V. Modern methods for controlling and regulating impurities in pharmaceuticals // Фармация. — 2024. — Т. 73, № 6. — С. 16–25. https://doi.org/10.29296/25419218-2024-06-03
-
+@@PROJECT@@
 Название научного проекта: «Синтез и исследование физико-химических свойств низкомолекулярных биологически-активных соединений»
 Команда проекта: к.ф.н., доцент кафедры Кокорекин Владимир Алексеевич, к.ф.н., ст. преп. кафедры Турецкий Евгений Александрович, 
 Описание проекта:
@@ -124,7 +125,7 @@ DOI: 10.47093/3034-4700.2025.2.2.24-35.
 7.	Shatilov A. A. и др. Synthesis and Biological Properties of Polyphenol-Containing Linear and Dendrimeric Cationic Peptides // Biochemistry (Mosc). 2024. Т. 89, № 1. С. 173–183.
 8.	Panferova L. I. и др. Using the Thiyl Radical for Aliphatic Hydrogen-Atom Transfer: Thiolation of Unactivated C-H Bonds // Angew Chem Int Ed Engl. International ed. in English, 2021. Т. 60, № 6. С. 2849–2854.
 9.	Shershakova N. N. и др. Wound healing activity of aqueous dispersion of fullerene C60 produced by «green technology» // Nanomedicine. 2023. Т. 47. С. 102619.
-
+@@PROJECT@@
 Название научного проекта: «Фармацевтическая разработка высокотехнологичных иммунотропных препаратов»
 Команда проекта: д.ф.н., профессор Смирнов В.В., Туренко В.Н., Багаев Д.Э., Bello Taye, Спиридонов А.В., Долгов Д.С. 
 Описание проекта:
@@ -154,7 +155,7 @@ Khaitov M, Nikonova A, Shilovskiy I, Kozhikhova K, Kofiadi I, Vishnyakova L, Nik
 
 Shilovskiy IP, Sundukova MS, Korneev AV, Nikolskii AA, Barvinskaya ED, Kovchina VI, Vishniakova LI, Turenko VN, Yumashev KV, Kaganova MM, Brylina VE, Sergeev I, Maerle A, Kudlay DA, Petukhova O, Khaitov M.R, The mixture of siRNAs targeted to IL-4 and IL-13 genes effectively reduces the airway hyperreactivity and allergic inflammation in a mouse model of asthma, International Immunopharmacology,
 Volume 103, 2022, 108432, ISSN 1567-5769, https://doi.org/10.1016/j.intimp.2021.108432.
-
+@@PROJECT@@
 Название научного проекта: «Разработка, валидация и внедрение современных методов оценки биоэквивалентности воспроизведенных лекарственных препаратов»
 Команда проекта: д.фарм.н., профессор Раменская Г.В.; к.фарм.н., доцент Медведев Ю.В.; к.фарм.н., доцент Мельников Е.С.; к.фарм.н. Фишер Е.Н.
 Описание проекта:
