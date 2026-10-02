@@ -1,0 +1,871 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "file_code": "APCC",
+      "record_type": {
+        "ru": "Научный проект",
+        "en": "Research project"
+      },
+      "title": {
+        "ru": "Качество распыления фармацевтических аэрозолей и спреев",
+        "en": "The quality of spraying pharmaceutical aerosols and sprays"
+      },
+      "leader": null,
+      "team": [
+        {
+          "name": {
+            "ru": {
+              "surname": "Янкова",
+              "given": "Виктория",
+              "patronymic": "Германовна",
+              "initials": "В. Г.",
+              "short": "Янкова В. Г."
+            },
+            "en": {
+              "surname": "Yankova",
+              "given": "Viktoriya",
+              "patronymic": "G.",
+              "initials": "V. G.",
+              "short": "Yankova V. G."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Грибанова",
+              "given": "Светлана",
+              "patronymic": "Васильевна",
+              "initials": "С. В.",
+              "short": "Грибанова С. В."
+            },
+            "en": {
+              "surname": "Gribanova",
+              "given": "Svetlana",
+              "patronymic": "V.",
+              "initials": "S. V.",
+              "short": "Gribanova S. V."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. х. н.",
+            "en": "Ph.D. in Chemistry"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Григорьева",
+              "given": "Виктория",
+              "patronymic": "Юрьевна",
+              "initials": "В. Ю.",
+              "short": "Григорьева В. Ю."
+            },
+            "en": {
+              "surname": "Grigorieva",
+              "given": "Viktoriya",
+              "patronymic": "Yu.",
+              "initials": "V. Yu.",
+              "short": "Grigorieva V. Yu."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Удянская",
+              "given": "Ирина",
+              "patronymic": "Львовна",
+              "initials": "И. Л.",
+              "short": "Удянская И. Л."
+            },
+            "en": {
+              "surname": "Udyanskaya",
+              "given": "Irina",
+              "patronymic": "L.",
+              "initials": "I. L.",
+              "short": "Udyanskaya I. L."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Пасивкина",
+              "given": "Дарья",
+              "patronymic": "Антоновна",
+              "initials": "Д. А.",
+              "short": "Пасивкина Д. А."
+            },
+            "en": {
+              "surname": "Pasivkina",
+              "given": "Daria",
+              "patronymic": "A.",
+              "initials": "D. A.",
+              "short": "Pasivkina D. A."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "студент",
+            "en": "Student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Обручкова",
+              "given": "Ирина",
+              "patronymic": "Юрьевна",
+              "initials": "И. Ю.",
+              "short": "Обручкова И. Ю."
+            },
+            "en": {
+              "surname": "Obruchkova",
+              "given": "Irina",
+              "patronymic": "Yu.",
+              "initials": "I. Yu.",
+              "short": "Obruchkova I. Yu."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "студент",
+            "en": "Student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Луткова",
+              "given": "Марьяна",
+              "patronymic": "Сергеевна",
+              "initials": "М. С.",
+              "short": "Луткова М. С."
+            },
+            "en": {
+              "surname": "Lutkova",
+              "given": "Maryana",
+              "patronymic": "S.",
+              "initials": "M. S.",
+              "short": "Lutkova M. S."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "студент",
+            "en": "Student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Конон",
+              "given": "Софья",
+              "patronymic": "Борисовна",
+              "initials": "С. Б.",
+              "short": "Конон С. Б."
+            },
+            "en": {
+              "surname": "Konon",
+              "given": "Sofia",
+              "patronymic": "B.",
+              "initials": "S. B.",
+              "short": "Konon S. B."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "студент",
+            "en": "Student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Макаренко",
+              "given": "Маргарита",
+              "patronymic": "Васильевна",
+              "initials": "М. В.",
+              "short": "Макаренко М. В."
+            },
+            "en": {
+              "surname": "Makarenko",
+              "given": "Margarita",
+              "patronymic": "V.",
+              "initials": "M. V.",
+              "short": "Makarenko M. V."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "студент",
+            "en": "Student"
+          }
+        }
+      ],
+      "department": {
+        "ru": "Кафедра аналитической, физической и коллоидной химии",
+        "en": "Department of Analytical, Physical, and Colloid Chemistry"
+      },
+      "partner_organizations": [
+        {
+          "ru": "Институт теплофизики им. С. С. Кутателадзе СО РАН (Новосибирск)",
+          "en": "S. S. Kutateladze Institute of Thermophysics of the Siberian Branch of the Russian Academy of Sciences (Novosibirsk)"
+        }
+      ],
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_concept": {
+        "ru": "",
+        "en": ""
+      },
+      "goal": {
+        "ru": "На основе сравнительного анализа ключевых показателей распыления спрейно-аэрозольных форм назальных препаратов и средств для лечения боли в горле выбрать с точки зрения доставки лекарственного вещества на слизистую оболочку горла наиболее эффективный препарат.",
+        "en": "Based on a comparative analysis of the key parameters of spray and aerosol formulations of nasal medications and remedies for treating sore throat, select the most effective drug in terms of delivering the medicinal substance to the mucous membrane of the throat."
+      },
+      "key_objectives": [
+        {
+          "ru": "Изучение качества распыления спрейно-аэрозольных форм по следующим показателям: воспроизводимость и однородность массы дозы, площадь орошаемой поверхности на плоскостной имитационной модели, площадь орошаемой поверхности на силиконовой модели носа",
+          "en": "Study of the spraying quality of spray and aerosol formulations based on the following indicators: reproducibility and uniformity of the dose mass, the area of the irrigated surface on a planar simulation model, the area of the irrigated surface on a silicone nasal model."
+        },
+        {
+          "ru": "Изучение динамических характеристик распыления и дисперсного состава распыла назальных препаратов и средств для лечения боли в горле методом теневой фотографии",
+          "en": "Study of the dynamic characteristics of spraying and the particle size distribution of nasal medications and throat pain treatments using shadow photography."
+        }
+      ],
+      "methodology": {
+        "ru": "",
+        "en": ""
+      },
+      "expected_results": [],
+      "implementation": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_background": {
+        "ru": "",
+        "en": ""
+      },
+      "publications": [
+        {
+          "ru": "Грибанова С.В., Янкова В.Г., Удянская И.Л., Григорьева В.Ю., Слонская Т.К., Жукова А.А., Парфенов И.Д. Сравнение распылительной способности спреев для горла, содержащих гексэтидин. Инфекционные болезни. 2021; 19(1): 144–148. DOI: 10.20953/1729-9225- 2021-1-144-148",
+          "en": "Gribanova S.V., Yankova V.G., Udyanskaya I.L., Grigoryeva V.Yu., Slonskaya T.K., Zhukova A.A., Parfenov I.D. Comparison of spray capacities of throat sprays containing hexethidine. Infekc. bolezni (Infectious diseases). 2021; 19(1): 144–148. (In Russian). DOI: 10.20953/1729-9225-2021-1-144-148"
+        },
+        {
+          "ru": "Oleg A. Gobyzov, Mikhail N. Ryabov, Viktoriya G. Yankova, Svetlana V. Gribanov, Tatiana K. Slonskaya, Irina L. Udyanskaya, Anna A. Zhukova, Viktoriya Yu. Grigoryeva Comparative analysis of the dispersion quality of oxymetazoline nasal sprays Journal of Advanced Pharmaceutical Technology & Research , Volume 17, Issue 1( January March 2022), р.30-37",
+          "en": "Oleg A. Gobyzov, Mikhail N. Ryabov, Viktoriya G. Yankova, Svetlana V. Gribanov, Tatiana K. Slonskaya, Irina L. Udyanskaya, Anna A. Zhukova, Viktoriya Yu. Grigoryeva Comparative analysis of the dispersion quality of oxymetazoline nasal sprays Journal of Advanced Pharmaceutical Technology & Research , Volume 17, Issue 1( January March 2022), р.30-37"
+        },
+        {
+          "ru": "Грибанова С.В., Янкова В.Г., Гобызов О.А., Рябов М.Н., Карпова А.С., Кедик С.А., Удянская И.Л., Григорьева В.Ю., Краснюк (мл.) И.И., Слонская Т.К., Жукова А.А. Изучение и анализ параметров распыления назальных спреев на основе фрамицетина. Вопросы практической педиатрии. 2022; 17(2): 99–106. DOI: 10.20953/1817-7646-2022-2-99-106",
+          "en": "S.V.Gribanova, V.G.Yankova , O.A.Gobyzov , M.N.Ryabov , A.S.Karpova, S.A.Kedik, I.L.Udyanskaya , V.Yu.Grigorieva, I.I.Krasnyuk (Jr) , T.K.Slonskaya, A.A.Zhukova Assessment of spraying characteristics of two nasal sprays containing framycetin Clinical Practice in Pediatrics 2022; 17(2): 99–106. DOI: 10.20953/1817-7646-2022-2-99-106"
+        },
+        {
+          "ru": "Краснюк И.И. (мл), Слонская Т.К., Жукова А.А., Симонян Л.А. Комплексный анализ параметров распыления назальных спреев, содержащих антибиотики, противовоспалительный и сосудосуживающий компоненты. 2023; 18(3): 75–82. DOI: 10.20953/1817-7646-2023-3-75-82",
+          "en": "S.V.Gribanova, V.G.Yankova, O.A.Gobyzov, M.N.Ryabov, A.S.Karpova, S.A.Kedik, I.L.Udyanskaya,V.Yu.Grigorieva , I.I.Krasnyuk (Jr), T.K.Slonskaya, A.A.Zhukova, L.A.Simonyan Comprehensive analysis of the spray parameters of nasal sprays containing antibiotics, anti-inflammatory and vasoconstrictive components Clinical Practice in Pediatrics, 2023, volume 18, No 3, p. 75–82 DOI: 10.20953/1817-7646-2023-3-75-82"
+        },
+        {
+          "ru": "Янкова В.Г., Гобызов О.А., Рябов М.Н., Удянская И.Л., Григорьева В.Ю., Жукова А.А., Слонская Т.К., Плахотная О.Н., Станцов М.И., Карташов В.С., Якубович Л.М., Грибанова С.В. Оценка качества распыления комбинированного препарата для лечения инфекционно-воспалительных заболеваний горла методом теневой фотографии. Вопросы практической педиатрии. 2024; 19(3): 58–64. DOI: 10.20953/1817-7646-2024-3-58-64",
+          "en": "Yankova V.G., Gobyzov O.A., Ryabov M.N., Udyanskaya I.L., Grigorieva V.Yu., Zhukova A.A., Slonskaya T.K., Plakhotnaya O.N., Stantsov M.I., Kartashov V.S., Yakubovich L.M., Gribanova S.V. Evaluation of nebulization quality of a combination drug for the treatment of infectious and inflammatory diseases of the throat by the shadow photography method. Vopr. prakt. pediatr. (Clinical Practice in Pediatrics). 2024; 19(3): 58–64. (In Russian). DOI: 10.20953/1817-7646-2024-3-58-64"
+        },
+        {
+          "ru": "Янкова В.Г., Гобызов О.А., Рябов М.Н., Григорьева В.Ю., Удянская И.Л., Жукова А.А., Слонская Т.К., Плахотная О.Н., Эпштейн Н.Б., Помазкина М.П., Грибанова С.В. Качество распыления дозированных спреев: cравнительное исследование бензидаминсодержащих препаратов. Вопросы практической педиатрии. 2025; 20(5): 39–48. DOI: 10.20953/1817-7646-2025-5-39-48",
+          "en": "Yankova V.G., Gobyzov O.A., Ryabov M.N., Grigorieva V.Yu., Udyanskaya I.L., Zhukova A.A., Slonskaya T.K., Plakhotnaya O.N., Epshtein N.B., Pomazkina M.P., Gribanova S.V. Spray quality of metered sprays: a comparative study of benzidamine-containing preparations. Vopr. prakt. pediatr. (Clinical Practice in Pediatrics). 2025; 20(5): 39–48. (In Russian). DOI: 10.20953/1817-7646-2025-5-39-48"
+        },
+        {
+          "ru": "",
+          "en": "Yankova V.G., Gribanova S.V., Grigoryeva V.Yu., Udyanskaya I.L., Slonskaya T.K., Zhukova A.A., Plakhotnaya O.N., Krasnyuk I.I. (Jr.), Chernikova K.S., Dosaeva E.S. Quality of spraying of combination medicines produced by different manufacturers used for the treatment of upper respiratory tract infections. Vopr. prakt. pediatr. (Clinical Practice in Pediatrics). 2021; 16(1): 112–117. (In Russian). DOI: 10.20953/1817-7646-2021-1-112-117"
+        }
+      ],
+      "conference_presentations": [],
+      "additional_info": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "file_code": "APCC",
+      "record_type": {
+        "ru": "Научный проект",
+        "en": "Research project"
+      },
+      "title": {
+        "ru": "Повышение биодоступности малорастворимых лекарственных средств – твёрдые дисперсии в медицине и фармации",
+        "en": "Improving the bioavailability of poorly soluble medicinal products – solid dispersions in medicine and pharmacy"
+      },
+      "leader": null,
+      "team": [
+        {
+          "name": {
+            "ru": {
+              "surname": "Краснюк",
+              "given": "Иван",
+              "patronymic": "Иванович",
+              "initials": "И. И.",
+              "short": "Краснюк И. И. (мл.)"
+            },
+            "en": {
+              "surname": "Krasnyuk",
+              "given": "Ivan",
+              "patronymic": "I.",
+              "initials": "I. I.",
+              "short": "Krasnyuk I. I. (Jr.)"
+            }
+          },
+          "suffix": {
+            "ru": "мл.",
+            "en": "Jr."
+          },
+          "degree": {
+            "ru": "д. фарм. н.",
+            "en": "Sc.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "профессор",
+            "en": "Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Грих",
+              "given": "Виктория",
+              "patronymic": "Владимировна",
+              "initials": "В. В.",
+              "short": "Грих В. В."
+            },
+            "en": {
+              "surname": "Grikh",
+              "given": "Viktoria",
+              "patronymic": "V.",
+              "initials": "V. V.",
+              "short": "Grikh V. V."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Григорьева",
+              "given": "Виктория",
+              "patronymic": "Юрьевна",
+              "initials": "В. Ю.",
+              "short": "Григорьева В. Ю."
+            },
+            "en": {
+              "surname": "Grigorieva",
+              "given": "Viktoriya",
+              "patronymic": "Yu.",
+              "initials": "V. Yu.",
+              "short": "Grigorieva V. Yu."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Слонская",
+              "given": "Татьяна",
+              "patronymic": "Кимовна",
+              "initials": "Т. К.",
+              "short": "Слонская Т. К."
+            },
+            "en": {
+              "surname": "Slonskaya",
+              "given": "Tatiana",
+              "patronymic": "K.",
+              "initials": "T. K.",
+              "short": "Slonskaya T. K."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Евграфов",
+              "given": "Александр",
+              "patronymic": "Александрович",
+              "initials": "А. А.",
+              "short": "Евграфов А. А."
+            },
+            "en": {
+              "surname": "Evgrafov",
+              "given": "Aleksandr",
+              "patronymic": "A.",
+              "initials": "A. A.",
+              "short": "Evgrafov A. A."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "к. фарм. н.",
+            "en": "Ph.D. in Pharmaceutical Sciences"
+          },
+          "position": {
+            "ru": "доцент",
+            "en": "Associate Professor"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Станцов",
+              "given": "Максим",
+              "patronymic": "Игоревич",
+              "initials": "М. И.",
+              "short": "Станцов М. И."
+            },
+            "en": {
+              "surname": "Stantsov",
+              "given": "Maksim",
+              "patronymic": "I.",
+              "initials": "M. I.",
+              "short": "Stantsov M. I."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "ассистент",
+            "en": "Assistant"
+          },
+          "status": {
+            "ru": "",
+            "en": ""
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Терских",
+              "given": "Кирилл",
+              "patronymic": "Андреевич",
+              "initials": "К. А.",
+              "short": "Терских К. А."
+            },
+            "en": {
+              "surname": "Terskikh",
+              "given": "Kirill",
+              "patronymic": "A.",
+              "initials": "K. A.",
+              "short": "Terskikh K. A."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "аспирант",
+            "en": "Postgraduate student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Шифрин",
+              "given": "Марк",
+              "patronymic": "Александрович",
+              "initials": "М. А.",
+              "short": "Шифрин М. А."
+            },
+            "en": {
+              "surname": "Shifrin",
+              "given": "Mark",
+              "patronymic": "A.",
+              "initials": "M. A.",
+              "short": "Shifrin M. A."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "аспирант",
+            "en": "Postgraduate student"
+          }
+        },
+        {
+          "name": {
+            "ru": {
+              "surname": "Бубнова",
+              "given": "М.",
+              "patronymic": "A.",
+              "initials": "М. A.",
+              "short": "Бубнова М. A."
+            },
+            "en": {
+              "surname": "Bubnova",
+              "given": "M.",
+              "patronymic": "A.",
+              "initials": "M. A.",
+              "short": "Bubnova M. A."
+            }
+          },
+          "suffix": {
+            "ru": "",
+            "en": ""
+          },
+          "degree": {
+            "ru": "",
+            "en": ""
+          },
+          "position": {
+            "ru": "",
+            "en": ""
+          },
+          "status": {
+            "ru": "аспирант",
+            "en": "Postgraduate student"
+          }
+        }
+      ],
+      "department": {
+        "ru": "Кафедра аналитической, физической и коллоидной химии",
+        "en": "Department of Analytical, Physical, and Colloid Chemistry"
+      },
+      "partner_organizations": [
+        {
+          "ru": "Кафедра фармацевтической технологии Института фармации ФГАОУ ВО Первый МГМУ имени И. М. Сеченова Минздрава России (Сеченовский Университет)",
+          "en": "Department of Pharmaceutical Technology of the Institute of Pharmacy, Sechenov First Moscow State Medical University (Sechenov University)"
+        },
+        {
+          "ru": "Лаборатория фармацевтических технологий научно-производственного участка Центра регенеративной медицины ФГБОУ ВО МГУ имени М. В. Ломоносова",
+          "en": "Laboratory of Pharmaceutical Technologies at the Scientific and production site of the Center for Regenerative Medicine, Lomonosov Moscow State University"
+        }
+      ],
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_concept": {
+        "ru": "",
+        "en": ""
+      },
+      "goal": {
+        "ru": "Создание инновационных лекарственных препаратов (в том числе быстрорастворимых), содержащих твёрдые дисперсии (ТД) малорастворимых активных фармацевтических субстанций (АФС), обладающих улучшенными биофармацевтическими свойствами.",
+        "en": "To develop innovative medicinal products (including fast dissolving ones) containing solid dispersions (SD) of low solubility active pharmaceutical substances (APS) with improved biopharmaceutical properties."
+      },
+      "key_objectives": [
+        {
+          "ru": "Cкрининг малорастворимых в воде АФС и оптимальных полимеров-носителей для приготовления ТД",
+          "en": "screening of low solubility APS in water and optimal carrier polymers for preparing SD"
+        },
+        {
+          "ru": "разработка технологии получения ТД исследуемых АФС",
+          "en": "development of technology for producing SD of the studied APS"
+        },
+        {
+          "ru": "разработка состава и технологии получения инновационных лекарственных препаратов с применением ранее разработанных ТД",
+          "en": "development of the composition and technology for producing innovative medicinal products using previously developed SD"
+        },
+        {
+          "ru": "стандартизация полученных препаратов, оценка биодоступности, стабильности и сроков годности при хранении",
+          "en": "standardization of the obtained preparations, assessment of bioavailability, stability, and shelf life during storage"
+        }
+      ],
+      "methodology": {
+        "ru": "",
+        "en": ""
+      },
+      "expected_results": [],
+      "implementation": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_background": {
+        "ru": "",
+        "en": ""
+      },
+      "publications": [
+        {
+          "ru": "The effect of solid dispersions on the solubility of tamsulosin hydrochloride in an aqueous medium. Research J. Pharmacy and Technology. 2026. Т. 19. № 3. С. 1260-1264. https://doi.org/10.52711/0974-360X.2026.00180",
+          "en": "The effect of solid dispersions on the solubility of tamsulosin hydrochloride in an aqueous medium. Research J. Pharmacy and Technology. 2026. Т. 19. № 3. P. 1260-1264. https://doi.org/10.52711/0974-360X.2026.00180"
+        },
+        {
+          "ru": "Study of the effect of solid dispersions with polyvinylipyrrolidone-10000 on the dissolution of nimesulid. Farmatsiya. 2026. Т. 75. № 5. С. 37-45. https://doi.org/10.29296/25419218-2026-05-04",
+          "en": "Study of the effect of solid dispersions with polyvinylipyrrolidone-10000 on the dissolution of nimesulid. Farmatsiya. 2026. Т. 75. № 5. P. 37-45. https://doi.org/10.29296/25419218-2026-05-04"
+        },
+        {
+          "ru": "Increasing the solubility of albendazole by solid dispersion method. Farmatsiya. 2026. Т. 75. №. 3. С. 57-64. https://doi.org/10.29296/25419218-2026-03-08",
+          "en": "Increasing the solubility of albendazole by solid dispersion method. Farmatsiya. 2026. Т. 75. №. 3. P. 57-64. https://doi.org/10.29296/25419218-2026-03-08"
+        },
+        {
+          "ru": "Influence of solid dispersions on the solubility of tamsulosin hydrochloride. Farmatsiya. 2025. Т. 74. № 2. С. 38-45. https://doi.org/10.29296/25419218-2025-02-05",
+          "en": "Influence of solid dispersions on the solubility of tamsulosin hydrochloride. Farmatsiya. 2025. Т. 74. № 2. P. 38-45. https://doi.org/10.29296/25419218-2025-02-05"
+        },
+        {
+          "ru": "Study of the specific activity of an innovative dosage form of a chemotherapeutic agent. Farmatsiya. 2022. Т. 71. № 4. С. 19-25. https://doi.org/10.29296/25419218-2022-04-03",
+          "en": "Study of the specific activity of an innovative dosage form of a chemotherapeutic agent. Farmatsiya. 2022. Т. 71. № 4. P. 19-25. https://doi.org/10.29296/25419218-2022-04-03"
+        },
+        {
+          "ru": "Development of effervescent granules with solid dispersion of furazolidone. Drug development & registration. 2022. Т. 11. № 1. С. 75-81. https://doi.org/10.33380/2305-2066-2022-11-1-75-81",
+          "en": "Development of effervescent granules with solid dispersion of furazolidone. Drug development & registration. 2022. Т. 11. № 1. P. 75-81. https://doi.org/10.33380/2305-2066-2022-11-1-75-81"
+        },
+        {
+          "ru": "Development of nitrofuran derivative: composition and technology of effervescent tablets with solid dispersions. Pharmacy & Pharmacology. 2022. Т. 10. №. 1. С. 55-68. https://doi.org/10.19163/2307-9266-2022-10-1-55-68",
+          "en": "Development of nitrofuran derivative: composition and technology of effervescent tablets with solid dispersions. Pharmacy & Pharmacology. 2022. Т. 10. №. 1. P. 55-68. https://doi.org/10.19163/2307-9266-2022-10-1-55-68"
+        },
+        {
+          "ru": "Effect of solid dispersions on the solubility of metronidazole. Pharmacy & Pharmacology. 2021 Т. 9. № 3. С. 195-204. https://doi.org/10.19163/2307-9266-2021-9-3-195-204",
+          "en": "Effect of solid dispersions on the solubility of metronidazole. Pharmacy & Pharmacology. 2021 Т. 9. № 3. P. 195-204. https://doi.org/10.19163/2307-9266-2021-9-3-195-204"
+        }
+      ],
+      "conference_presentations": [],
+      "additional_info": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "file_code": "",
+      "record_type": {
+        "ru": "Научный проект",
+        "en": "Research project"
+      },
+      "title": {
+        "ru": "",
+        "en": ""
+      },
+      "leader": null,
+      "team": [],
+      "department": {
+        "ru": "",
+        "en": ""
+      },
+      "partner_organizations": [],
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_concept": {
+        "ru": "",
+        "en": ""
+      },
+      "goal": {
+        "ru": "",
+        "en": ""
+      },
+      "key_objectives": [],
+      "methodology": {
+        "ru": "",
+        "en": ""
+      },
+      "expected_results": [],
+      "implementation": {
+        "ru": "",
+        "en": ""
+      },
+      "scientific_background": {
+        "ru": "",
+        "en": ""
+      },
+      "publications": [],
+      "conference_presentations": [],
+      "additional_info": {
+        "ru": "",
+        "en": ""
+      }
+    }
+  ]
+}
