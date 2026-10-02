@@ -1,4 +1,4 @@
-Text 1
+@@PROJECT@@
 Scientific Research Area: "Scientific and Methodological Foundations of Hygienic and Ecological Monitoring of Active Pharmaceutical Substances and the Safe Management of Unusable Medicinal Products"
 Ramenskaya G.V., Gorpinchenko N.V., Rodionova G.M.
 Description of the Research Area
@@ -28,7 +28,7 @@ The scientific background includes publications on the organization of hygienic 
 3. Pozharnov I.A., Chugaev D.V., Shulga N.A. [et al.] Quantitative determination of osimertinib in workplace air at a pharmaceutical enterprise // Natural and Technical Sciences. — 2022. — No. 8 (171). — P. 73–85.
 4. Pozharnov I.A., Ramenskaya G.V., Epshtein N.B. Industrial hygiene monitoring of the drug ticagrelor at a pharmaceutical factory // Technogenic Systems and Environmental Risk: Abstracts of the III International (XVI Regional) Scientific Conference. — 2020. — P. 223–224.
 
-Text 2
+@@PROJECT@@
 Scientific Project Title: "Development and Validation of Methods for Chemical-Toxicological and Forensic Chemical Analysis of Narcotic, Psychotropic, and Other Toxicologically Significant Substances"
 Division: Department of Pharmaceutical and Toxicological Chemistry named after A.P. Arzamastsev, Institute of Pharmacy named after A.P. Nelyubin, Sechenov University.
 Project Team (based on authors of published works): Doctor of Pharmaceutical Sciences, Professor Ramenskaya G.V.; Doctor of Biological Sciences, Professor Belova M.V.; Candidate of Pharmaceutical Sciences, Associate Professor Petukhov A.E.
@@ -60,7 +60,7 @@ DOI: 10.3390/toxins14070490.
 8. Zelenshchikova V.A., Belova M.V., Melnik E.V. Toxicologically significant properties of Amanita mushrooms and chemical-toxicological analysis in cases of poisoning: a scientific review // Forensic Medicine. — 2025. — Vol. 11, No. 1. — P. 63–75.
 DOI: 10.17816/fm16219.
 
-Text 3
+@@PROJECT@@
 Scientific Project Title: "Metabolism and Pharmacokinetics of Medicinal Substances as the Scientific Basis of Personalized Medicine and Personalized Pharmacy"
 Project Team (based on authors of published works): Ramenskaya G.V.; Smirnov V.V.; Melnikov E.S.;
 Project Description:
@@ -87,7 +87,7 @@ DOI: 10.30906/0023-1134-2015-49-3-3-6.
 7. Turenko V.N., Ramenskaya G.V., Karimova Z.K. et al. Development of Approaches for Evaluating the Pharmacokinetics of Meropenem during Endolymphatic Antibiotic Treatment in Critically Ill Patients // The BRICS Health Journal. — 2025. — Vol. 2, No. 2. — P. 24–35.
 DOI: 10.47093/3034-4700.2025.2.2.24-35.
 
-Text 4
+@@PROJECT@@
 Scientific Project Title: "Quality Control of Medicinal Products"
 Project Team: Research staff of the Department of Pharmaceutical and Toxicological Chemistry named after A.P. Arzamastsev, Institute of Pharmacy named after A.P. Nelyubin, Sechenov University
 Project Description:
@@ -108,7 +108,7 @@ Key Scientific Publications on the Project:
 • Gegechkori V.I., Sukhanova A.M., Belyavsky N.O., Ramenskaya G.V. Implementation of modern quality management system requirements in the production management of reference standards for pharmaceuticals and medicine // Pharmacoeconomics. Modern Pharmacoeconomics and Pharmacoepidemiology. — 2025. — Vol. 18, No. 3. — P. 330–339. https://doi.org/10.17749/2070-4909/farmakoekonomika.2025.311
 • Shulga N.A., Merkushova A.G., Gegechkori V.I., Chugaev D.V., Ramenskaya G.V. Modern methods for controlling and regulating impurities in pharmaceuticals // Pharmacy. — 2024. — Vol. 73, No. 6. — P. 16–25. https://doi.org/10.29296/25419218-2024-06-03
 
-Text 5
+@@PROJECT@@
 Scientific Project Title: "Synthesis and Investigation of the Physicochemical Properties of Low-Molecular-Weight Biologically Active Compounds"
 Project Team: Candidate of Pharmaceutical Sciences, Associate Professor of the Department Kokorekin Vladimir Alekseevich; Candidate of Pharmaceutical Sciences, Senior Lecturer of the Department Turetsky Evgeny Aleksandrovich
 Project Description:
@@ -130,7 +130,7 @@ Key Scientific Publications:
 8. Panferova L.I. et al. Using the Thiyl Radical for Aliphatic Hydrogen-Atom Transfer: Thiolation of Unactivated C–H Bonds // Angew Chem Int Ed Engl. International ed. in English, 2021. Vol. 60, No. 6. P. 2849–2854.
 9. Shershakova N.N. et al. Wound healing activity of aqueous dispersion of fullerene C60 produced by "green technology" // Nanomedicine. 2023. Vol. 47. P. 102619.
 
-Text 6
+@@PROJECT@@
 Scientific Project Title: "Pharmaceutical Development of High-Technology Immunotropic Drug Products"
 Project Team: Doctor of Pharmaceutical Sciences, Professor Smirnov V.V.; Turenko V.N.; Bagaev D.E.; Bello Taye; Spiridonov A.V.; Dolgov D.S.
 Project Description:
@@ -152,7 +152,7 @@ Khaitov M., Shilovskiy I., Valenta R., Weber M., Korneev A., Tulaeva I., Gatting
 Khaitov M., Nikonova A., Shilovskiy I., Kozhikhova K., Kofiadi I., Vishnyakova L., Nikolskii A., Gattinger P., Kovchina V., Barvinskaia E., Yumashev K., Smirnov V., Maerle A., Kozlov I., Shatilov A., Timofeeva A., Andreev S., Koloskova O., Kuznetsova N., Vasina D., Nikiforova M., Rybalkin S., Sergeev I., Trofimov D., Martynov A., Berzin I., Gushchin V., Kovalchuk A., Borisevich S., Valenta R., Khaitov R., Skvortsova V. Silencing of SARS-CoV-2 with modified siRNA-peptide dendrimer formulation. Allergy. 2021 Sep;76(9):2840–2854. doi: 10.1111/all.14850. Epub 2021 May 10. PMID: 33837568; PMCID: PMC8251148.
 Shilovskiy I.P., Sundukova M.S., Korneev A.V., Nikolskii A.A., Barvinskaya E.D., Kovchina V.I., Vishniakova L.I., Turenko V.N., Yumashev K.V., Kaganova M.M., Brylina V.E., Sergeev I., Maerle A., Kudlay D.A., Petukhova O., Khaitov M.R. The mixture of siRNAs targeted to IL-4 and IL-13 genes effectively reduces the airway hyperreactivity and allergic inflammation in a mouse model of asthma. International Immunopharmacology. Volume 103, 2022, 108432, ISSN 1567-5769. https://doi.org/10.1016/j.intimp.2021.108432.
 
-Text 7
+@@PROJECT@@
 Scientific Project Title: "Development, Validation, and Implementation of Modern Methods for the Assessment of Bioequivalence of Generic Medicinal Products"
 Project Team: Doctor of Pharmaceutical Sciences, Professor Ramenskaya G.V.; Candidate of Pharmaceutical Sciences, Associate Professor Medvedev Yu.V.; Candidate of Pharmaceutical Sciences, Associate Professor Melnikov E.S.; Candidate of Pharmaceutical Sciences Fisher E.N.
 Project Description:
